@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm trying out this coding thing because I want to learn to do stuff on the digital realm.
-I'm currently learning Python and R (I have a prticular interest in data analytics). However, I'm also interested in learning in learning lots of other stuff.
+I'm trying out this coding thing because I want to learn to do stuff on the digital realm.  
+I'm currently learning Python and R (I have a prticular interest in data analytics). However, I'm also interested in learning lots of other stuff.  
 I find it really easy to read about development-related stuff, but I sometimes struggle with execution. This GitHub account is a way to get me started doing stuff.
